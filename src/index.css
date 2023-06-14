@@ -1,0 +1,56 @@
+.mt-6{
+    margin-top: -22px !important;
+    padding-top: 15px !important;
+}
+
+.container{
+  max-width: 1014px ;
+  margin: 100px auto;
+}
+.color{
+    background-color: aqua;
+    background-image: url(./assets/react.svg);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.hrs{
+    margin-top: -27px !important;
+}
+
+.col-3{
+    width: 18% !important;
+}
+
+.card-text:last-child {
+    margin-bottom: 50px !important;
+}
+
+.w-25{
+    width: 35%!important;
+  }
+  .bg-primary{
+    background-color: rgb(85, 54, 241) !important;
+  }
+  
+  .bg-primary-subtle{
+    background-color: rgb(62, 38, 180) !important;
+  }
+  
+  .fs-9{
+    font-size: 50px !important;
+  }
+
+.fs-6{
+    margin-top: 30px !important;
+    margin-bottom: 0 !important;
+  } 
+
+  .border-radius{
+    border-radius: 15px;
+  }
+
+  .rounded {
+ border-radius:15px !important ;
+}
